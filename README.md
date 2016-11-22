@@ -1,0 +1,2 @@
+# SecureMiningOfAssociationRulesInHorizontallyDistributedDataBases
+BE-Final Year Project
